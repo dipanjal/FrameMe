@@ -1,0 +1,10 @@
+__pycache__/
+logs/
+.vscode/
+.idea/
+tests/
+docker/
+log.txt
+venv/
+output/
+video.mp4
