@@ -6,5 +6,6 @@ tests/
 docker/
 log.txt
 venv/
+.venv/
 output/
 video.mp4
